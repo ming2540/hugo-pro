@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+date: 2019-09-09T10:28:00+07:00
+lastmod: 2019-09-09T10:28:00+07:00
 menu: "main"
 weight: 50
 
@@ -10,15 +10,21 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+เว็บไซต์สำหรับการศึกษา Hugo SSG 
+
+จัดทำโดย
+
+{{< figure src="/image/46625862_2128932627157862_5837085233593188352_n.jpg" >}}
+[5910110044 จาคี อินทปัญญา](https://www.facebook.com/Jakee.Indapanya)
+
+{{< figure src="/image/56173267_2615188611886076_2704506954574725120_n.jpg" >}}
+[5910110095 ณัชสันต์ จันทระ](https://www.facebook.com/nutchasan.jantarha)
+
+{{< figure src="/image/33089759_1564638596967664_3501317799953825792_n.jpg" >}}
+[5910110419 ปัณณ์ เรืองจารุวัฒนา](https://www.facebook.com/ming.ruengjaruwatana) 
 
 
-It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+ดูข้อมูลเพิ่มเติมที่ [GitHub](https://github.com/ming2540/hugo-pro)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 

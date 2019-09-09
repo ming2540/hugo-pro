@@ -19,6 +19,7 @@ Now, we could use `{{</* gallery */>}}` shortcode in hugo-theme-jane.
 ## Normal Image
 
 This is an image in `static/image` folder.
+[This is an image in `static/image` folder.](/image/33089759_1564638596967664_3501317799953825792_n.jpg)
 
 ```markdown
 ![This is an image in `static/image` folder.](/image/example.jpg)
@@ -33,6 +34,7 @@ This is an image in `static/image` folder.
 ```
 {{</* figure src="/image/example.jpg" title="figure image with title" */>}}
 ```
+{{< figure src="/image/33089759_1564638596967664_3501317799953825792_n.jpg" >}}
 
 
 ### figure image with caption
